@@ -23,5 +23,6 @@ while True:
 
     again = input("\nDo you want to calculate again? (y/n): ")
     if again.lower() != 'y':
-        print("Goodbye 👋")
+        print("Goodbye ")
         break
+
